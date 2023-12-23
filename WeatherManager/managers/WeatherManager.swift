@@ -27,5 +27,5 @@ class WeatherManager: ObservableObject {
             }
         }
     }
-}
+} //change
 
